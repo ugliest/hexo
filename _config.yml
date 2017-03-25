@@ -72,3 +72,4 @@ deploy:
   repo: https://github.com/ugliest/hexo.git
   branch: gh-pages
 
+# This is git tests
